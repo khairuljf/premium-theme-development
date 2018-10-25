@@ -1,0 +1,34 @@
+#wpcontent, #wpcontent .form-table th, .form-wrap label,h1,h2{
+	background: black;
+	color: white;
+	
+}
+#wpcontent{
+	
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+#setting-error-settings_updated{
+	color: black;
+}
+#wpcontent .form-table th, .form-wrap label, h1, h2{
+	background: none;
+}
+.sunlight-user-preview, .user-form{
+	float: left;
+	display: inline-block;
+}
+.sunlight-user-preview{
+	width: 300px;
+	text-align: center;
+	padding: 10px;
+	background: black;
+	margin-right: 10px;
+}
+
+.profile img{
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+}
